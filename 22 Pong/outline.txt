@@ -1,0 +1,10 @@
+draw map
+
+add player and computer
+
+add ball
+
+add ball collision
+
+add scoreboard
+

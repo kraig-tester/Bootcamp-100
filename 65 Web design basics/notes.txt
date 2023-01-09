@@ -1,0 +1,34 @@
+Colors theory
+
+Red - energy, rush
+Green - freshness, health
+Yellow - attention grabbbing, 
+Blue - stability, trust, gives you a credability
+Purple - royalty, fame
+
+https://color.adobe.com/create/color-wheel
+
+
+UI design
+
+Use color accents and size to get user attention to important parts.
+
+Reduce align points to look professional.
+
+Use whitespace to make it look 'expensive'.
+
+Adapt to your audience.
+
+
+Typography
+
+San serif fonts for readability
+
+
+UX
+Meant to 'invisible'
+Keep things simple
+Be consistent. Make user slide through web effortlessly
+Apply F reading patterns(F layout) or Z pattern
+Make your website for all devices
+Use page space reasonably

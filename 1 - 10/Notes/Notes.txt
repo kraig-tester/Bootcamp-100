@@ -1,0 +1,10 @@
+Be so good, so nobody can ignore you.
+
+Sign and print the pledge to code for a 100 days.
+
+Print calendar to checkout each day completed.
+
+For an ipad we can use Replit web editor.
+
+shift + alt + down --- copy line down
+ctrl + / --- comment in/out
